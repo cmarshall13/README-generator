@@ -1,4 +1,4 @@
-# readme generator 
+# README generator 
 
 <!-- screenshot here -->
 <img src="" alt="">
@@ -12,15 +12,15 @@
     7. [Questions](#questions)
 ## Description
 
-this app generates a professional readme
+This application provides a professional README
 
 ## Installation
 
-install the required packages with `npm init` and install inquirer with `npm install inquirer`. Also use the email validator with `npm install email-validator`
+install the npm package ``npm init`` and then install inquirer package ``npm install inquirer`` and email validator with ``npm install email-validator``
 
 ## Usage
 
-run the app with `node index` and fill out the prompts. when the prompts are done, it will be generated in your dist directory
+in order to use, you must call node index.js from the command line and answer the following prompts. This will generate the README in the /dist directory
 
 ## Contribution
     
@@ -28,7 +28,7 @@ pull requests will be reviewed
 
 ## Testing
 
-none
+none at this time
 
 ## License
 
