@@ -13,9 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-  "inquirer": "^6.3.1",
-  "bugs": {
-    "url": "https://github.com/cmarshall13/README-generator/issues"
-  },
-  "homepage": "https://github.com/cmarshall13/README-generator#readme"
+    "inquirer": "^8.1.5"
+  }
 }
